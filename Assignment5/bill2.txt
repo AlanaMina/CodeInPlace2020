@@ -1,0 +1,9 @@
+4/1/20 [Shake Shack] $9
+4/6/20 [Grocery Hut] $82
+4/12/20 [Grocery Hut] $117
+4/17/20 [Ace Hardware] $14
+4/19/20 [Grocery Hut] $65
+4/19/20 [Joan's Fabric] $18
+4/23/20 [Nom Nom Nom] $12
+4/25/20 [Grocery Hut] $29
+4/29/20 [Shake Shack] $7
